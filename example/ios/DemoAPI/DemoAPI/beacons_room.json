@@ -1,0 +1,221 @@
+{
+    "type": "FeatureCollection",
+    "features": [
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 0.0,
+                                 4.0
+                                 ]
+                 },
+                 "properties": {
+                 "relations": [
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "zone",
+                               "value": 32
+                               }
+                               },
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "level",
+                               "value": 1
+                               }
+                               }
+                               ],
+                 "tags": {
+                 "id": 151,
+                 "PUUID": "111B57AE-391D-4EC7-85D5-35877CD8F827",
+                 "major": 2,
+                 "minor": 1,
+                 "height": 2.5,
+                 "type": "node",
+                 "name": "node0"
+                 },
+                 "type": "node"
+                 },
+                 "id": 151
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 0,
+                                 0
+                                 ]
+                 },
+                 "properties": {
+                 "relations": [
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "zone",
+                               "value": 31
+                               }
+                               },
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "level",
+                               "value": 1
+                               }
+                               }
+                               ],
+                 "tags": {
+                 "id": 152,
+                 "PUUID": "111B57AE-391D-4EC7-85D5-35877CD8F827",
+                 "major": 1,
+                 "minor": 1,
+                 "height": 2.5,
+                 "type": "node",
+                 "name": "node0"
+                 },
+                 "type": "node"
+                 },
+                 "id": 152
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 53.75,
+                                 -38.5
+                                 ]
+                 },
+                 "properties": {
+                 "relations": [
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "zone",
+                               "value": 310
+                               }
+                               },
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "level",
+                               "value": 1
+                               }
+                               }
+                               ],
+                 "tags": {
+                 "id": 153,
+                 "PUUID": "111B57AE-391D-4EC7-85D5-35877CD8F827",
+                 "major": 10,
+                 "minor": 1,
+                 "height": 2.5,
+                 "type": "node",
+                 "name": "node0"
+                 },
+                 "type": "node"
+                 },
+                 "id": 153
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 0,
+                                 1.0
+                                 ]
+                 },
+                 "properties": {
+                 "relations": [
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "zone",
+                               "value": 31
+                               }
+                               },
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "level",
+                               "value": 1
+                               }
+                               }
+                               ],
+                 "tags": {
+                 "id": 154,
+                 "PUUID": "111B57AE-391D-4EC7-85D5-35877CD8F827",
+                 "major": 1,
+                 "minor": 10,
+                 "height": 2.5,
+                 "type": "node",
+                 "name": "node0"
+                 },
+                 "type": "node"
+                 },
+                 "id": 155
+                 },
+                 {
+                 "type": "Feature",
+                 "geometry": {
+                 "type": "Point",
+                 "coordinates": [
+                                 53.75,
+                                 -57.5
+                                 ]
+                 },
+                 "properties": {
+                 "relations": [
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "zone",
+                               "value": 310
+                               }
+                               },
+                               {
+                               "role": null,
+                               "id": null,
+                               "reltags": {
+                               "name": null,
+                               "type": "level",
+                               "value": 1
+                               }
+                               }
+                               ],
+                 "tags": {
+                 "id": 155,
+                 "PUUID": "111B57AE-391D-4EC7-85D5-35877CD8F827",
+                 "major": 10,
+                 "minor": 10,
+                 "height": 2.5,
+                 "type": "node",
+                 "name": "node0"
+                 },
+                 "type": "node"
+                 },
+                 "id": 154
+                 }
+                 
+                 ]
+}
